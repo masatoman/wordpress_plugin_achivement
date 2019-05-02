@@ -19,6 +19,9 @@
  */
 
 // ** MySQL settings ** //
+
+define('WP_DEBUG', true);
+
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'local' );
 
